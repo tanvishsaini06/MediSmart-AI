@@ -1,0 +1,138 @@
+.stApp{
+    background:white;
+}
+[data-testid="stAppViewContainer"]{
+    background:white;
+}
+/* Main Content */
+.block-container {
+    padding-top: 4rem !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
+
+.navbar{
+    width: 100%;
+    background: linear-gradient(90deg, #2563eb,#3b82f6);
+    padding: 18px 30px;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+
+/* Titles */
+h1 {
+    color: white;
+    font-weight: 700;
+}
+
+h2, h3 {
+    color: #E2E8F0;
+}
+
+/* Cards */
+div[data-testid="stMetric"] {
+    background: #1E293B;
+    border-radius: 15px;
+    padding: 15px;
+    border: 1px solid #334155;
+}
+
+/* Buttons */
+.stButton > button {
+    background: #2563EB;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    height: 48px;
+    font-weight: bold;
+}
+
+.stButton > button:hover {
+    background: #1D4ED8;
+}
+
+/* Text Input */
+.stTextInput input {
+    background: #1E293B;
+    color: white;
+    border-radius: 12px;
+    border: 2px solid #334155;
+}
+
+/* Tables */
+[data-testid="stDataFrame"] {
+    border-radius: 12px;
+}
+
+
+/* Success Boxes */
+div[data-baseweb="notification"] {
+    border-radius: 12px;
+}
+
+.stApp{
+    background: linear-gradient(rgba(8,15,35,0.85), rgba(8,15,35,0.85)),
+                url("https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1920");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Glass cards */
+.glass-card{
+    background: rgba(255,255,255,0.08);
+    backdrop-filter: blur(15px);
+    border-radius:20px;
+    padding:25px;
+    border:1px solid rgba(255,255,255,0.15);
+    box-shadow:0 8px 30px rgba(0,0,0,.35);
+}
+
+.hero{
+    margin-top: 50px;
+    margin-bottom: 40px;
+
+    padding: 50px 40px;
+
+    background: linear-gradient(135deg,#111827,#2563EB);
+    border-radius: 25px;
+
+    text-align: center;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+}
+
+.hero h1{
+    font-size: 48px;
+    color: white !important;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.hero h3{
+    font-size: 34px;
+    color: #E2E8F0 !important;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 22px;
+    color: #E5E7EB;
+    line-height: 1.8;
+}
+
+.stButton > button{
+    height: 50px;
+    border-radius: 12px;
+    font-size: 16px;
+    font-weight: 600;
+}
+h3{
+    text-align: center;
+}
+st.markdown{
+    text-align: center;
+}
+
+
+

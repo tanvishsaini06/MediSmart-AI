@@ -1,0 +1,17 @@
+Medicine,Disease,Category,Dosage,Price,Alternative
+Paracetamol,Fever,Tablet,500 mg,20,Crocin
+Crocin,Fever,Tablet,500 mg,25,Paracetamol
+Azithromycin,Bacterial Infection,Tablet,500 mg,120,Amoxicillin
+Amoxicillin,Bacterial Infection,Capsule,250 mg,90,Azithromycin
+Cetirizine,Allergy,Tablet,10 mg,30,Loratadine
+Loratadine,Allergy,Tablet,10 mg,35,Cetirizine
+Pantoprazole,Acidity,Tablet,40 mg,80,Omeprazole
+Omeprazole,Acidity,Capsule,20 mg,70,Pantoprazole
+Metformin,Diabetes,Tablet,500 mg,110,Glibenclamide
+Glibenclamide,Diabetes,Tablet,5 mg,95,Metformin
+Ibuprofen,Pain,Tablet,400 mg,40,Diclofenac
+Diclofenac,Pain,Tablet,50 mg,50,Ibuprofen
+Vitamin C,Weak Immunity,Tablet,500 mg,60,Limcee
+Limcee,Weak Immunity,Tablet,500 mg,65,Vitamin C
+ORS,Dehydration,Powder,1 Sachet,25,Electral
+Electral,Dehydration,Powder,1 Sachet,30,ORS

@@ -1,0 +1,64 @@
+Pharmacy,Medicine,Availability,Price,Rating,HomeDelivery,Contact,OpeningHours,Address,Latitude,Longitude
+Pawan Medical Hall,Paracetamol,Yes,20,4.8,Yes,9876500001,"8 AM - 10 PM","Near Civil Hospital",31.6751,75.6101
+Guru Nanak Medical Store,Paracetamol,Yes,22,4.7,Yes,9876500002,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+Life Care Medicos,Paracetamol,Yes,21,4.6,Yes,9876500003,"24 Hours","Bus Stand",31.6770,75.6120
+
+Pawan Medical Hall,Crocin,Yes,25,4.8,Yes,9876500004,"8 AM - 10 PM","Near Civil Hospital",31.6751,75.6101
+Guru Nanak Medical Store,Crocin,Yes,24,4.7,Yes,9876500005,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+Life Care Medicos,Crocin,Yes,26,4.5,Yes,9876500006,"24 Hours","Bus Stand",31.6770,75.6120
+
+Verma Medicos,Azithromycin,Yes,120,4.7,Yes,9876500007,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Guru Nanak Medical Store,Azithromycin,Yes,118,4.6,Yes,9876500008,"9 AM - 9 PM","Hospital Road",31.6790,75.6140
+Bahl Medical Agencies,Azithromycin,Yes,122,4.5,No,9876500009,"24 Hours","Old Market",31.6800,75.6150
+
+Verma Medicos,Amoxicillin,Yes,90,4.6,Yes,9876500010,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Life Care Medicos,Amoxicillin,Yes,92,4.5,Yes,9876500011,"24 Hours","Bus Stand",31.6770,75.6120
+Pawan Medical Hall,Amoxicillin,Yes,89,4.7,Yes,9876500012,"8 AM - 10 PM","Civil Hospital",31.6751,75.6101
+
+Guru Nanak Medical Store,Cetirizine,Yes,30,4.8,Yes,9876500013,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+Verma Medicos,Cetirizine,Yes,31,4.6,Yes,9876500014,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Life Care Medicos,Cetirizine,Yes,29,4.5,Yes,9876500015,"24 Hours","Bus Stand",31.6770,75.6120
+
+Guru Nanak Medical Store,Loratadine,Yes,35,4.7,Yes,9876500016,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+Pawan Medical Hall,Loratadine,Yes,34,4.8,Yes,9876500017,"8 AM - 10 PM","Civil Hospital",31.6751,75.6101
+Life Care Medicos,Loratadine,Yes,36,4.5,No,9876500018,"24 Hours","Bus Stand",31.6770,75.6120
+
+Verma Medicos,Pantoprazole,Yes,80,4.6,Yes,9876500019,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Guru Nanak Medical Store,Pantoprazole,Yes,79,4.7,Yes,9876500020,"9 AM - 9 PM","Hospital Road",31.6790,75.6140
+Life Care Medicos,Pantoprazole,Yes,81,4.5,Yes,9876500021,"24 Hours","Bus Stand",31.6770,75.6120
+
+Pawan Medical Hall,Omeprazole,Yes,70,4.8,Yes,9876500022,"8 AM - 10 PM","Civil Hospital",31.6751,75.6101
+Verma Medicos,Omeprazole,Yes,71,4.6,Yes,9876500023,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Guru Nanak Medical Store,Omeprazole,Yes,69,4.7,Yes,9876500024,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+
+Life Care Medicos,Metformin,Yes,85,4.6,Yes,9876500025,"24 Hours","Bus Stand",31.6770,75.6120
+Pawan Medical Hall,Metformin,Yes,84,4.8,Yes,9876500026,"8 AM - 10 PM","Civil Hospital",31.6751,75.6101
+Guru Nanak Medical Store,Metformin,Yes,86,4.7,Yes,9876500027,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+
+Verma Medicos,Glibenclamide,Yes,95,4.5,Yes,9876500028,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Life Care Medicos,Glibenclamide,Yes,94,4.6,Yes,9876500029,"24 Hours","Bus Stand",31.6770,75.6120
+Guru Nanak Medical Store,Glibenclamide,Yes,96,4.7,Yes,9876500030,"9 AM - 9 PM","Hospital Road",31.6790,75.6140
+
+Pawan Medical Hall,Ibuprofen,Yes,40,4.8,Yes,9876500031,"8 AM - 10 PM","Civil Hospital",31.6751,75.6101
+Guru Nanak Medical Store,Ibuprofen,Yes,39,4.7,Yes,9876500032,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+Life Care Medicos,Ibuprofen,Yes,41,4.6,Yes,9876500033,"24 Hours","Bus Stand",31.6770,75.6120
+
+Verma Medicos,Diclofenac,Yes,50,4.6,Yes,9876500034,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Guru Nanak Medical Store,Diclofenac,Yes,49,4.7,Yes,9876500035,"9 AM - 9 PM","Hospital Road",31.6790,75.6140
+Life Care Medicos,Diclofenac,Yes,51,4.5,No,9876500036,"24 Hours","Bus Stand",31.6770,75.6120
+
+Pawan Medical Hall,Vitamin C,Yes,60,4.8,Yes,9876500037,"8 AM - 10 PM","Civil Hospital",31.6751,75.6101
+Guru Nanak Medical Store,Vitamin C,Yes,61,4.7,Yes,9876500038,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+Life Care Medicos,Vitamin C,Yes,59,4.6,Yes,9876500039,"24 Hours","Bus Stand",31.6770,75.6120
+
+Verma Medicos,Limcee,Yes,65,4.5,Yes,9876500040,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Pawan Medical Hall,Limcee,Yes,64,4.8,Yes,9876500041,"8 AM - 10 PM","Civil Hospital",31.6751,75.6101
+Guru Nanak Medical Store,Limcee,Yes,66,4.7,Yes,9876500042,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+
+Life Care Medicos,ORS,Yes,25,4.6,Yes,9876500043,"24 Hours","Bus Stand",31.6770,75.6120
+Pawan Medical Hall,ORS,Yes,24,4.8,Yes,9876500044,"8 AM - 10 PM","Civil Hospital",31.6751,75.6101
+Guru Nanak Medical Store,ORS,Yes,26,4.7,Yes,9876500045,"9 AM - 9 PM","Main Bazaar",31.6760,75.6110
+
+Verma Medicos,Electral,Yes,30,4.6,Yes,9876500046,"8 AM - 9 PM","Railway Road",31.6780,75.6130
+Life Care Medicos,Electral,Yes,31,4.5,Yes,9876500047,"24 Hours","Bus Stand",31.6770,75.6120
+Guru Nanak Medical Store,Electral,Yes,29,4.7,Yes,9876500048,"9 AM - 9 PM","Hospital Road",31.6790,75.6140
