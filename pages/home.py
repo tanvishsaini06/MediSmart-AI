@@ -112,19 +112,19 @@ with col1:
     st.markdown("### 🔍 Medicine Search")
     st.write("Search medicines, alternatives and dosage.")
     if st.button("Open Medicine Search", use_container_width=True):
-        st.switch_page("pages/Medicine_search.py")
+        st.switch_page("pages/medicine_search.py")
 
 with col2:
     st.markdown("### 📊 Dashboard")
     st.write("View analytics and search statistics.")
-    if st.button("Open Dashboard", use_container_width=True):
-        st.switch_page("pages/Dashboard.py")
+    if st.button("Open dashboard", use_container_width=True):
+        st.switch_page("pages/dashboard.py")
 
 with col3:
     st.markdown("### 🕒 Search History")
     st.write("Review previously searched medicines.")
     if st.button("Open Search History", use_container_width=True):
-        st.switch_page("pages/Dashboard.py")
+        st.switch_page("pages/search_history.py")
 st.markdown("---")
 
 # ================= TECHNOLOGIES =================
